@@ -1,0 +1,13 @@
+User_ID,User_Age,User_State,Book_ID,Book_Title,Book_Genre,Book_Pages,Book_Price,Rating,Liked
+U001,25,SP,B101,O Código,Ficção,320,45.90,5.0,1
+U001,25,SP,B102,Domínio de Dados,Tecnologia,450,89.90,4.5,1
+U002,42,RJ,B104,Luzes de Paris,Romance,200,29.90,5.0,1
+U002,42,RJ,B103,Sombras,Suspense,280,35.50,4.0,1
+U003,19,MG,B105,A Jornada,Fantasia,510,55.00,5.0,1
+U003,19,MG,B101,O Código,Ficção,320,45.90,2.5,0
+U004,35,BA,B102,Domínio de Dados,Tecnologia,450,89.90,5.0,1
+U004,35,BA,B103,Sombras,Suspense,280,35.50,4.5,1
+U004,35,BA,B104,Luzes de Paris,Romance,200,29.90,1.5,0
+U005,50,SP,B101,O Código,Ficção,320,45.90,4.0,1
+U005,50,SP,B105,A Jornada,Fantasia,510,55.00,2.0,0
+U001,25,SP,B105,A Jornada,Fantasia,510,55.00,3.0,0
